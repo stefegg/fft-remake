@@ -1,0 +1,1064 @@
+{
+  "weapons": {
+
+
+    "axes": [{
+        "name": "Battle Axe",
+        "atk": 9,
+        "cost": 1500,
+        "effect":"none",
+        "defense":"0%"
+      },
+      {
+        "name": "Giant Axe",
+        "atk": 12,
+        "cost": 4000,
+        "effect":"none",
+        "defense":"0%"
+      },
+      {
+        "name": "Slasher",
+        "atk": 16,
+        "cost": 12000,
+        "effect":"none",
+        "defense":"0%"
+      },
+      {
+        "name": "Francisca",
+        "atk": 24,
+        "cost": 10,
+        "effect":"none",
+        "defense":"0%"
+      },
+      {
+        "name": "Golden Axe",
+        "atk": 30,
+        "cost": 10,
+        "effect":"none",
+        "defense":"0%"
+      }
+    ],
+    "bags": [{
+        "name": "Croakadile Bag",
+        "atk": 10,
+        "cost": 53000,
+        "effect":"none",
+        "defense":"0%"
+      },
+      {
+        "name": "Pantherskin Bag",
+        "atk": 12,
+        "cost": 52000,
+        "effect":"none",
+        "defense":"0%"
+      },
+      {
+        "name": "Hydrascale Bag",
+        "atk": 14,
+        "cost": 58000,
+        "effect": "+1 Speed",
+        "defense":"0%"
+      },
+      {
+        "name": "Fallingstar Bag",
+        "atk": 20,
+        "cost": 60000,
+        "effect":"none",
+        "defense":"0%"
+      }
+    ],
+    "books": [{
+        "name": "Battle Folio",
+        "atk": 7,
+        "cost": 3000,
+        "effect":"none",
+        "defense":"15%"
+      },
+      {
+        "name": "Bestiary",
+        "atk": 8,
+        "cost": 6000,
+        "effect":"none",
+        "defense":"15%"
+      },
+      {
+        "name": "Papyrus Codex",
+        "atk": 9,
+        "cost": 10000,
+        "effect":"none",
+        "defense":"15%"
+      },
+      {
+        "name": "Omnilex",
+        "atk": 11,
+        "cost": 30000,
+        "effect":"none",
+        "defense":"15%"
+      }
+    ],
+    "bows": [{
+        "name": "Longbow",
+        "atk": 4,
+        "cost": 800,
+        "effect":"none",
+        "defense":"0%"
+      },
+      {
+        "name": "Silver Bow",
+        "atk": 5,
+        "cost": 1500,
+        "effect":"none",
+        "defense":"0%"
+      },
+      {
+        "name": "Ice Bow",
+        "atk": 5,
+        "cost": 2000,
+        "effect":"Element Ice",
+        "defense":"0%"
+      },
+      {
+        "name": "Lightning Bow",
+        "atk": 6,
+        "cost": 3000,
+        "effect":"Element Thunder, Spell Effect Thundara",
+        "defense":"0%"
+      },
+      {
+        "name": "Mythril Bow",
+        "atk": 7,
+        "cost": 5000,
+        "effect":"none",
+        "defense":"0%"
+      },
+      {
+        "name": "Windslash Bow",
+        "atk": 8,
+        "cost": 8000,
+        "effect":"Element Wind",
+        "defense":"0%"
+      },
+      {
+        "name": "Artemis Bow",
+        "atk": 10,
+        "cost": 22000,
+        "effect":"none",
+        "defense":"0%"
+      },
+      {
+        "name": "Yoichi Bow",
+        "atk": 12,
+        "cost": 10,
+        "effect":"none",
+        "defense":"0%"
+      },
+      {
+        "name": "Perseus Bow",
+        "atk": 16,
+        "cost": 10,
+        "effect":"none",
+        "defense":"0%"
+      },
+      {
+        "name": "Sagittarius Bow",
+        "atk": 24,
+        "cost": 10,
+        "effect":"none",
+        "defense":"0%"
+      }
+    ],
+    "cloths": [{
+        "name": "Damask Cloth",
+        "atk": 8,
+        "cost": 7000,
+        "effect":"none",
+        "defense":"50%"
+      },
+      {
+        "name": "Cashmere",
+        "atk": 10,
+        "cost": 15000,
+        "effect":"none",
+        "defense":"50%"
+      },
+      {
+        "name": "Wyrmweave Silk",
+        "atk": 15,
+        "cost": 40000,
+        "effect":"none",
+        "defense":"50%"
+      }
+    ],
+    "crossbows": [{
+        "name": "Bowgun",
+        "atk": 3,
+        "cost": 400,
+        "effect":"none",
+        "defense":"5%"
+      },
+      {
+        "name": "Knightslayer",
+        "atk": 3,
+        "cost": 1500,
+        "effect":"Effect Blind",
+        "defense":"5%"
+      },
+      {
+        "name": "Crossbow",
+        "atk": 4,
+        "cost": 2000,
+        "effect":"none",
+        "defense":"5%"
+      },
+      {
+        "name": "Poison Bow",
+        "atk": 4,
+        "cost": 4000,
+        "effect":"Effect Poison",
+        "defense":"5%"
+      },
+      {
+        "name": "Hunting Bow",
+        "atk": 6,
+        "cost": 8000,
+        "effect":"none",
+        "defense":"5%"
+      },
+      {
+        "name": "Gastrophetes",
+        "atk": 10,
+        "cost": 20000,
+        "effect":"none",
+        "defense":"5%"
+      }
+    ],
+    "fellswords": [{
+        "name": "Chaosbringer",
+        "atk": 16,
+        "cost": 10,
+        "effect":"Effect Blind, Element Dark",
+        "defense":"0%"
+      },
+      {
+        "name": "Deathbringer",
+        "atk": 20,
+        "cost": 10,
+        "effect":"Effect Doom, Element Dark",
+        "defense":"0%"
+      },
+      {
+        "name": "Arondlight",
+        "atk": 24,
+        "cost": 10,
+        "effect":"Effect Slow, Element Dark",
+        "defense":"0%"
+      },
+      {
+        "name": "Balmung",
+        "atk": 32,
+        "cost": 10,
+        "effect":"Effect Stop, Element Dark",
+        "defense":"0%"
+      },
+      {
+        "name": "Valhalla",
+        "atk": 40,
+        "cost": 10,
+        "effect": "Effect KO, Element Dark",
+        "defense":"0%"
+      }
+    ],
+    "flails": [{
+        "name": "Iron Flail",
+        "atk": 9,
+        "cost": 1200,
+        "effect":"none",
+        "defense":"0%"
+      },
+      {
+        "name": "Flame Mace",
+        "atk": 11,
+        "cost": 4000,
+        "effect":"Spell Effect Fira, Element Fire",
+        "defense":"0%"
+      },
+      {
+        "name": "Morning Star",
+        "atk": 16,
+        "cost": 9000,
+        "effect":"none",
+        "defense":"0%"
+      },
+      {
+        "name": "Scorpion Tail",
+        "atk": 23,
+        "cost": 40000,
+        "effect":"none",
+        "defense":"0%"
+      },
+      {
+        "name": "Vesper",
+        "atk": 36,
+        "cost": 10,
+        "effect":"none",
+        "defense":"0%"
+      }
+    ],
+    "guns": [{
+        "name": "Romandan Pistol",
+        "atk": 6,
+        "cost": 5000,
+        "effect":"none",
+        "defense":"5%"
+      },
+      {
+        "name": "Mythil Gun",
+        "atk": 8,
+        "cost": 15000,
+        "effect":"none",
+        "defense":"5%"
+      },
+      {
+        "name": "Ras Algethi",
+        "atk": 12,
+        "cost": 28000,
+        "effect":"none",
+        "defense":"5%"
+      },
+      {
+        "name": "Stoneshooter",
+        "atk": 16,
+        "cost": 10,
+        "effect":"Effect Stone",
+        "defense":"5%"
+      },
+      {
+        "name": "Fomalhaut",
+        "atk": 18,
+        "cost": 10,
+        "effect":"none",
+        "defense":"5%"
+      },
+      {
+        "name": "Glacial Gun",
+        "atk": 20,
+        "cost": 10,
+        "effect":"Attacks with either Blizzard/Blizzara/Blizzaga, Element Ice",
+        "defense":"5%"
+      },
+      {
+        "name": "Blaze Gun",
+        "atk": 21,
+        "cost": 10,
+        "effect":"Attacks with either Fire/Fira/Firaga, Element Fire",
+        "defense":"5%"
+      },
+      {
+        "name": "Blaster",
+        "atk": 22,
+        "cost": 10,
+        "effect":"Attacks with either Thunder/Thundara/Thundaga, Element Thunder",
+        "defense":"5%"
+      }
+    ],
+    "instruments": [{
+        "name": "Lamia's Harp",
+        "atk": 10,
+        "cost": 5000,
+        "effect":"Effect Confuse",
+        "defense":"10%"
+      },
+      {
+        "name": "Bloodstring Harp",
+        "atk": 13,
+        "cost": 10000,
+        "effect":"Absorbs foe's HP",
+        "defense":"10%"
+      },
+      {
+        "name": "Fairie Harp",
+        "atk": 15,
+        "cost": 30000,
+        "effect":"Effect Charm",
+        "defense":"10%"
+      }
+    ],
+    "katana": [{
+        "name": "Ashura",
+        "atk": 7,
+        "cost": 1600,
+        "effect":"none",
+        "defense":"15%"
+      },
+      {
+        "name": "Kotetsu",
+        "atk": 8,
+        "cost": 3000,
+        "effect":"none",
+        "defense":"15%"
+      },
+      {
+        "name": "Osafune",
+        "atk": 9,
+        "cost": 5000,
+        "effect":"none",
+        "defense":"15%"
+      },
+      {
+        "name": "Murasame",
+        "atk": 10,
+        "cost": 7000,
+        "effect":"none",
+        "defense":"15%"
+      },
+      {
+        "name": "Heaven's Cloud",
+        "atk": 11,
+        "cost": 8000,
+        "effect":"none",
+        "defense":"15%"
+      },
+      {
+        "name": "Kiyomori",
+        "atk": 12,
+        "cost": 10000,
+        "effect":"none",
+        "defense":"15%"
+      },
+      {
+        "name": "Muramasa",
+        "atk": 14,
+        "cost": 15000,
+        "effect":"none",
+        "defense":"15%"
+      },
+      {
+        "name": "Kiku-Ichimoji",
+        "atk": 15,
+        "cost": 22000,
+        "effect":"none",
+        "defense":"15%"
+      },
+      {
+        "name": "Masamune",
+        "atk": 18,
+        "cost": 10,
+        "effect":"none",
+        "defense":"15%"
+      },
+      {
+        "name": "Chirijiraden",
+        "atk": 25,
+        "cost": 10,
+        "effect":"none",
+        "defense":"15%"
+      }
+    ],
+    "knives": [{
+        "name": "Dagger",
+        "atk": 3,
+        "cost": 100,
+        "effect":"none",
+        "defense":"5%"
+      },
+      {
+        "name": "Mythril Knife",
+        "atk": 4,
+        "cost": 500,
+        "effect":"none",
+        "defense":"5%"
+      },
+      {
+        "name": "Blind Knife",
+        "atk": 4,
+        "cost": 800,
+        "effect":"Effect Blind",
+        "defense":"5%"
+      },
+      {
+        "name": "Mage Masher",
+        "atk": 4,
+        "cost": 1500,
+        "effect":"Effect Silence",
+        "defense":"5%"
+      },
+      {
+        "name": "Platinum Dagger",
+        "atk": 5,
+        "cost": 1800,
+        "effect":"none",
+        "defense":"10%"
+      },
+      {
+        "name": "Main Gauche",
+        "atk": 6,
+        "cost": 3000,
+        "effect":"none",
+        "defense":"40%"
+      },
+      {
+        "name": "Orichalcum Dirk",
+        "atk": 7,
+        "cost": 4000,
+        "effect":"none",
+        "defense":"5%"
+      },
+      {
+        "name": "Assasin's Dagger",
+        "atk": 7,
+        "cost": 5000,
+        "effect":"Effect Doom",
+        "defense":"5%"
+      },
+      {
+        "name": "Air Knife",
+        "atk": 10,
+        "cost": 8000,
+        "effect":"Element Wind",
+        "defense":"5%"
+      },
+      {
+        "name": "Zwill Straightblade",
+        "atk": 12,
+        "cost": 12000,
+        "effect":"Effect Sleep",
+        "defense":"5%"
+      }
+    ],
+    "knightswords": [{
+        "name": "Defender",
+        "atk": 16,
+        "cost": 60000,
+        "effect":"none",
+        "defense":"60%"
+      },
+      {
+        "name": "Save the Queen",
+        "atk": 18,
+        "cost": 10,
+        "effect":"Equip Protect",
+        "defense":"30%"
+      },
+      {
+        "name": "Excalibur",
+        "atk": 21,
+        "cost": 10,
+        "effect":"Equip Haste, Absorbs Holy, Boosts Holy",
+        "defense":"35%"
+      },
+      {
+        "name": "Ragnarok",
+        "atk": 24,
+        "cost": 10,
+        "effect":"Equip Shell",
+        "defense":"20%"
+      },
+      {
+        "name": "Durandal",
+        "atk": 26,
+        "cost": 10,
+        "effect": "Equip Shell, Protect, Element Holy",
+        "defense":"40%"
+      },
+      {
+        "name": "Chaos Blade",
+        "atk": 40,
+        "cost": 10,
+        "effect": "Equip Regen, Effect Stone",
+        "defense":"20%"
+      }
+    ],
+    "ninjaswords": [{
+        "name": "Ninja Blade",
+        "atk": 8,
+        "cost": 3000,
+        "effect":"none",
+        "defense":"5%"
+      },
+      {
+        "name": "Kunai",
+        "atk": 9,
+        "cost": 5000,
+        "effect":"none",
+        "defense":"5%"
+      },
+      {
+        "name": "Kodachi",
+        "atk": 10,
+        "cost": 7000,
+        "effect":"none",
+        "defense":"5%"
+      },
+      {
+        "name": "Ninja Longblade",
+        "atk": 12,
+        "cost": 10000,
+        "effect":"none",
+        "defense":"5%"
+      },
+      {
+        "name": "Spellbinder",
+        "atk": 13,
+        "cost": 16000,
+        "effect":"Effect Disable",
+        "defense":"5%"
+      },
+      {
+        "name": "Sasuke's Blade",
+        "atk": 14,
+        "cost": 10,
+        "effect":"none",
+        "defense": "15%"
+      },
+      {
+        "name": "Koga Blade",
+        "atk": 15,
+        "cost": 10,
+        "effect": "none",
+        "defense":"5%"
+      },
+      {
+        "name": "Iga Blade",
+        "atk": 15,
+        "cost": 10,
+        "effect": "none",
+        "defense":"10%"
+      },
+      {
+        "name": "Orochi",
+        "atk": 20,
+        "cost": 10,
+        "effect": "Absorbs Foe's HP",
+        "defense":"5%"
+      },
+      {
+        "name": "Moonsilk Blade",
+        "atk": 26,
+        "cost": 10,
+        "effect":"none",
+        "defense": "5%"
+      }
+    ],
+    "poles": [{
+        "name": "Cypress Pole",
+        "atk": 6,
+        "cost": 1000,
+        "effect":"none",
+        "defense":"20%"
+      },
+      {
+        "name": "Battle Bamboo",
+        "atk": 7,
+        "cost": 1400,
+        "effect":"none",
+        "defense":"20%"
+      },
+      {
+        "name": "Musk Pole",
+        "atk": 8,
+        "cost": 2400,
+        "effect":"none",
+        "defense":"20%"
+      },
+      {
+        "name": "Iron Fan",
+        "atk": 9,
+        "cost": 4000,
+        "effect":"none",
+        "defense":"20%"
+      },
+      {
+        "name": "Gokuu Pole",
+        "atk": 10,
+        "cost": 7500,
+        "effect": "Effect Athiest",
+        "defense":"20%"
+      },
+      {
+        "name": "Ivory Pole",
+        "atk": 11,
+        "cost": 10000,
+        "effect": "none",
+        "defense":"20%"
+      },
+      {
+        "name": "Eight-fluted Pole",
+        "atk": 12,
+        "cost": 20000,
+        "effect": "Removes Blind/Silence/Oil/Toad/Poison/Slow/Stop/Immobilize/Disable",
+        "defense":"20%"
+      },
+      {
+        "name": "Whale Whisker",
+        "atk": 16,
+        "cost": 37000,
+        "effect": "none",
+        "defense":"20%"
+      }
+    ],
+    "polearms": [{
+        "name": "Javelin",
+        "atk": 8,
+        "cost": 1000,
+        "effect":"none",
+        "defense":"10%"
+      },
+      {
+        "name": "Spear",
+        "atk": 9,
+        "cost": 2000,
+        "effect":"none",
+        "defense":"10%"
+      },
+      {
+        "name": "Mythril Spear",
+        "atk": 10,
+        "cost": 4500,
+        "effect":"none",
+        "defense":"10%"
+      },
+      {
+        "name": "Partisan",
+        "atk": 11,
+        "cost": 7000,
+        "effect":"none",
+        "defense":"10%"
+      },
+      {
+        "name": "Obelisk",
+        "atk": 12,
+        "cost": 10000,
+        "effect": "none",
+        "defense":"10%"
+      },
+      {
+        "name": "Holy Lance",
+        "atk": 14,
+        "cost": 18000,
+        "effect": "Spell Effect Holy, Element Holy",
+        "defense":"10%"
+      },
+      {
+        "name": "Dragon Whisker",
+        "atk": 17,
+        "cost": 44000,
+        "effect": "none",
+        "defense":"10%"
+      },
+      {
+        "name": "Gae Bolg",
+        "atk": 24,
+        "cost": 10,
+        "effect": "none",
+        "defense":"15%"
+      },
+      {
+        "name": "Gungnir",
+        "atk": 29,
+        "cost": 10,
+        "effect": "Element Thunder",
+        "defense":"15%"
+      },
+      {
+        "name": "Javelin 'II'",
+        "atk": 30,
+        "cost": 1000,
+        "effect": "none",
+        "defense":"10%"
+      }
+    ],
+    "rods": [{
+        "name": "Rod",
+        "atk": 3,
+        "cost": 200,
+        "effect":"none",
+        "defense":"20%"
+      },
+      {
+        "name": "Thunder Rod",
+        "atk": 3,
+        "cost": 400,
+        "effect":"Boosts Thunder, Spell Effect Thunder, Element Thunder",
+        "defense":"20%"
+      },
+      {
+        "name": "Flame Rod",
+        "atk": 3,
+        "cost": 400,
+        "effect":"Boosts Fire, Spell Effect Fire, Element Fire",
+        "defense":"20%"
+      },
+      {
+        "name": "Ice Rod",
+        "atk": 3,
+        "cost": 400,
+        "effect":"Boosts Ice, Spell Effect Blizzard, Element Ice",
+        "defense":"20%"
+      },
+      {
+        "name": "Poison Rod",
+        "atk": 3,
+        "cost": 500,
+        "effect": "Effect Poison",
+        "defense":"20%"
+      },
+      {
+        "name": "Wizard's Rod",
+        "atk": 4,
+        "cost": 8000,
+        "effect": "2 Mgk Power",
+        "defense":"20%"
+      },
+      {
+        "name": "Dragon Rod",
+        "atk": 5,
+        "cost": 12000,
+        "effect": "none",
+        "defense":"20%"
+      },
+      {
+        "name": "Rod of Faith",
+        "atk": 5,
+        "cost": 10,
+        "effect": "Equip Faith, Effect Faith",
+        "defense":"20%"
+      },
+      {
+        "name": "Stardust Rod",
+        "atk": 5,
+        "cost": 10,
+        "effect": "Spell Effect Gravity, 3 Mgk Power",
+        "defense":"20%"
+      },
+      {
+        "name": "Crown Sceptre",
+        "atk": 5,
+        "cost": 10,
+        "effect": "4 Mgk Power",
+        "defense":"20%"
+      }
+    ],
+    "staves": [{
+        "name": "Oak Staff",
+        "atk": 3,
+        "cost": 120,
+        "effect":"none",
+        "defense":"15%"
+      },
+      {
+        "name": "White Staff",
+        "atk": 3,
+        "cost": 800,
+        "effect": "Removes Doom",
+        "defense":"15%"
+      },
+      {
+        "name": "Mage's Staff",
+        "atk": 4,
+        "cost": 4000,
+        "effect":"1 Mgk Power",
+        "defense":"15%"
+      },
+      {
+        "name": "Healing Staff",
+        "atk": 4,
+        "cost": 4000,
+        "effect": "Heals Target",
+        "defense":"15%"
+      },
+      {
+        "name": "Rainbow Staff",
+        "atk": 5,
+        "cost": 2200,
+        "effect": "none",
+        "defense":"15%"
+      },
+      {
+        "name": "Nirvana",
+        "atk": 5,
+        "cost": 10,
+        "effect": "Element Holy",
+        "defense":"15%"
+      },
+      {
+        "name": "Dreamwalker",
+        "atk": 5,
+        "cost": 10,
+        "effect": "none",
+        "defense":"15%"
+      },
+      {
+        "name": "Golden Staff",
+        "atk": 6,
+        "cost": 7000,
+        "effect": "none",
+        "defense":"15%"
+      },
+      {
+        "name": "Zeus Mace",
+        "atk": 6,
+        "cost": 10,
+        "effect": "2 Atk Power",
+        "defense":"15%"
+      },
+      {
+        "name": "Sage Staff",
+        "atk": 7,
+        "cost": 10,
+        "effect": "none",
+        "defense":"15%"
+      }
+    ],
+    "swords": [
+
+      {
+        "name": "Broadsword",
+        "atk": 4,
+        "cost": 200,
+        "effect":"none",
+        "defense":"5%"
+      },
+      {
+        "name": "Longsword",
+        "atk": 5,
+        "cost": 900,
+        "effect":"none",
+        "defense":"10%"
+      },
+      {
+        "name": "Iron Sword",
+        "atk": 6,
+        "cost": 1000,
+        "effect":"none",
+        "defense":"5%"
+      },
+      {
+        "name": "Mythril Sword",
+        "atk": 7,
+        "cost": 1600,
+        "effect":"none",
+        "defense":"8%"
+      },
+      {
+        "name": "Coral Sword",
+        "atk": 8,
+        "cost": 3300,
+        "effect": "Element Thunder",
+        "defense":"5%"
+      },
+      {
+        "name": "Blood Sword",
+        "atk": 8,
+        "cost": 3300,
+        "effect":"Absorbs foe's HP",
+        "defense": "5%"
+      },
+      {
+        "name": "Ancient Sword",
+        "atk": 9,
+        "cost": 5000,
+        "effect":"Effect Immobilize",
+        "defense": "5%"
+      },
+      {
+        "name": "Sleep Blade",
+        "atk": 9,
+        "cost": 5000,
+        "effect":"Effect Sleep",
+        "defense": "5%"
+      },
+      {
+        "name": "Diamond Sword",
+        "atk": 10,
+        "cost": 8000,
+        "effect":"none",
+        "defense": "10%"
+      },
+      {
+        "name": "Materia Blade",
+        "atk": 10,
+        "cost": 10,
+        "effect": "none",
+        "defense":"10%"
+      },
+      {
+        "name": "Platinum Sword",
+        "atk": 12,
+        "cost": 11000,
+        "effect": "none",
+        "defense":"10%"
+      },
+      {
+        "name": "Icebrand",
+        "atk": 13,
+        "cost": 14000,
+        "effect": "Spell Effect Blizzara, Element Ice",
+        "defense":"10%"
+      },
+      {
+        "name": "Runeblade",
+        "atk": 14,
+        "cost": 20000,
+        "effect": "none",
+        "defense":"15%"
+      },
+      {
+        "name": "Moonblade",
+        "atk": 20,
+        "cost": 10,
+        "effect": "Equip Haste",
+        "defense":"15%"
+      },
+      {
+        "name": "Onion Sword",
+        "atk": 50,
+        "cost": 10,
+        "effect": "Onion Knight Only",
+        "defense":"15%"
+      }
+    ],
+    "throwingweapons": [{
+        "name": "Shuriken",
+        "atk": 4,
+        "cost": 50,
+        "effect":"none",
+        "defense":"0%"
+      },
+      {
+        "name": "Fuma Shuriken",
+        "atk": 7,
+        "cost": 300,
+        "effect":"none",
+        "defense":"0%"
+      },
+      {
+        "name": "Yagyu Darkness",
+        "atk": 10,
+        "cost": 1000,
+        "effect":"none",
+        "defense":"0%"
+      },
+      {
+        "name": "Flameburst Bomb",
+        "atk": 8,
+        "cost": 250,
+        "effect":"Element Fire",
+        "defense":"0%"
+      },
+      {
+        "name": "Snowmelt Bomb",
+        "atk": 8,
+        "cost": 250,
+        "effect":"Element Water",
+        "defense":"0%"
+      },
+      {
+        "name": "Spark Bomb",
+        "atk": 8,
+        "cost": 250,
+        "effect":"Element Thunder",
+        "defense":"0%"
+      }
+    ]
+  }
+}
