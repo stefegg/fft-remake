@@ -1060,5 +1060,879 @@
         "defense":"0%"
       }
     ]
-  }
+  },
+  "outfits": {
+    "armor":[{
+      "name":"Leather Armor",
+      "hp":"+10",
+      "mp":"none",
+      "cost":200,
+      "effect":"none"
+    },
+    {
+      "name":"Linen Curiass",
+      "hp":"+20",
+      "mp":"none",
+      "cost":600,
+      "effect":"none"
+    },
+    {
+      "name":"Bronze Armor",
+      "hp":"+30",
+      "mp":"none",
+      "cost":800,
+      "effect":"none"
+    },
+    {
+      "name":"Chainmail",
+      "hp":"+40",
+      "mp":"none",
+      "cost":1300,
+      "effect":"none"
+    },
+    {
+      "name":"Mythril Armor",
+      "hp":"+50",
+      "mp":"none",
+      "cost":2000,
+      "effect":"none"
+    },
+    {
+      "name":"Plate Mail",
+      "hp":"+60",
+      "mp":"none",
+      "cost":3000,
+      "effect":"none"
+    },
+    {
+      "name":"Golden Armor",
+      "hp":"+70",
+      "mp":"none",
+      "cost":3600,
+      "effect":"none"
+    },
+    {
+      "name":"Diamond Armor",
+      "hp":"+80",
+      "mp":"none",
+      "cost":6000,
+      "effect":"none"
+    },
+    {
+      "name":"Platinum Armor",
+      "hp":"+90",
+      "mp":"none",
+      "cost":9000,
+      "effect":"none"
+    },
+    {
+      "name":"Carabineer Mail",
+      "hp":"+100",
+      "mp":"none",
+      "cost":13000,
+      "effect":"none"
+    },
+    {
+      "name":"Mirror Mail",
+      "hp":"+130",
+      "mp":"none",
+      "cost":18000,
+      "effect":"Equip Reflect"
+    },
+    {
+      "name":"Crystal Armor",
+      "hp":"+110",
+      "mp":"none",
+      "cost":19000,
+      "effect":"none"
+    },
+    {
+      "name":"Genji Armor",
+      "hp":"+150",
+      "mp":"none",
+      "cost":10,
+      "effect":"none"
+    },
+    {
+      "name":"Grand Armor",
+      "hp":"+170",
+      "mp":"none",
+      "cost":10,
+      "effect":"Equip Reraise, Equip Regen"
+    },
+    {
+      "name":"Maximillian",
+      "hp":"+200",
+      "mp":"none",
+      "cost":10,
+      "effect":"none"
+    },
+    {
+      "name":"Onion Armor",
+      "hp":"+250",
+      "mp":"none",
+      "cost":10,
+      "effect":"Equip Regen, Equip Reraise, Equip Protect, Equip Shell"
+    }
+  ],
+  "clothes": [
+    {
+      "name":"Clothing",
+      "hp":"+5",
+      "mp":"none",
+      "cost":150,
+      "effect":"none"
+    },
+    {
+      "name":"Leather Clothing",
+      "hp":"+10",
+      "mp":"none",
+      "cost":300,
+      "effect":"none"
+    },
+    {
+      "name":"Leather Vest",
+      "hp":"+18",
+      "mp":"none",
+      "cost":500,
+      "effect":"none"
+    },
+    {
+      "name":"Chain Vest",
+      "hp":"+25",
+      "mp":"none",
+      "cost":900,
+      "effect":"none"
+    },
+    {
+      "name":"Mythril Vest",
+      "hp":"+30",
+      "mp":"none",
+      "cost":1500,
+      "effect":"none"
+    },
+    {
+      "name":"Adamant Vest",
+      "hp":"+36",
+      "mp":"none",
+      "cost":1600,
+      "effect":"none"
+    },
+    {
+      "name":"Wizard Outfit",
+      "hp":"+42",
+      "mp":"+15",
+      "cost":1900,
+      "effect":"none"
+    },
+    {
+      "name":"Brigandine",
+      "hp":"+50",
+      "mp":"none",
+      "cost":2500,
+      "effect":"none"
+    },
+    {
+      "name":"Jujitsu Gi",
+      "hp":"+60",
+      "mp":"none",
+      "cost":4000,
+      "effect":"Immune KO, Atk+1"
+    },
+    {
+      "name":"Power Sleeve",
+      "hp":"+70",
+      "mp":"none",
+      "cost":7000,
+      "effect":"Atk +2"
+    },
+    {
+      "name":"Gaia Gear",
+      "hp":"+85",
+      "mp":"+10",
+      "cost":10000,
+      "effect":"Absorbs Earth, Boosts Earth"
+    },
+    {
+      "name":"Black Garb",
+      "hp":"+100",
+      "mp":"none",
+      "cost":12000,
+      "effect":"Immune Stop"
+    },
+    {
+      "name":"Ninja Gear",
+      "hp":"+20",
+      "mp":"none",
+      "cost":10,
+      "effect":"Speed +2, Equip Invisible"
+    },
+    {
+      "name":"Mirage Vest",
+      "hp":"+120",
+      "mp":"none",
+      "cost":10,
+      "effect":"Speed +1, Immune Sleep, Immune Poison, Immune Stone"
+    },
+    {
+      "name":"Minerva Bustier",
+      "hp":"+120",
+      "mp":"none",
+      "cost":10,
+      "effect":"Halves Ice/Water/Earth/Holy, Negates Fire/Lightning/Wind/Dark"
+    },
+    {
+      "name":"Rubber Suit",
+      "hp":"+150",
+      "mp":"+50",
+      "cost":46000,
+      "effect":"Negates Lightning"
+    },
+    {
+      "name":"Brave Suit",
+      "hp":"+160",
+      "mp":"+40",
+      "cost":10,
+      "effect":"Equip Regen, Equip Reraise"
+    }
+  ],
+  "hair": [
+    {
+      "name":"Cachusa",
+      "hp":"+20",
+      "mp":"none",
+      "cost":20000,
+      "effect":"Immune Doom/Undead/Blind/Silence/Toad/Poison/Slow/Immobilize/Disable"
+    },
+    {
+      "name":"Barette",
+      "hp":"+20",
+      "mp":"none",
+      "cost":20000,
+      "effect":"Immune KO/Stone/Traitor/Confuse/Vampire/Berserk/Stop/Charm/Sleep"
+    },
+    {
+      "name":"Ribbon",
+      "hp":"+10",
+      "mp":"none",
+      "cost":30000,
+      "effect":"Immune KO/Undead/Stone/Traitor/Blind/Confuse/Silence/Vampire/Berserk/Toad/Poison/Slow/Stop/Charm/Sleep/Immobilize/Doom/Disable"
+    }
+  ],
+  "hats": [
+    {
+      "name":"Leather Cap",
+      "hp":"+8",
+      "mp":"none",
+      "cost":150,
+      "effect":"none"
+    },
+    {
+      "name":"Plumed Hat",
+      "hp":"+16",
+      "mp":"+5",
+      "cost":350,
+      "effect":"none"
+    },
+    {
+      "name":"Red Hood",
+      "hp":"+24",
+      "mp":"+8",
+      "cost":800,
+      "effect":"none"
+    },
+    {
+      "name":"Headgear",
+      "hp":"+32",
+      "mp":"none",
+      "cost":1200,
+      "effect":"Atk+1"
+    },
+    {
+      "name":"Wizard's Hat",
+      "hp":"+40",
+      "mp":"+12",
+      "cost":1800,
+      "effect":"Mag+1"
+    },
+    {
+      "name":"Green Beret",
+      "hp":"+48",
+      "mp":"none",
+      "cost":3000,
+      "effect":"Spd+1"
+    },
+    {
+      "name":"Twist Headband",
+      "hp":"+56",
+      "mp":"none",
+      "cost":5000,
+      "effect":"Atk+2"
+    },
+    {
+      "name":"Holy Miter",
+      "hp":"+64",
+      "mp":"+20",
+      "cost":6000,
+      "effect":"Mag+1"
+    },
+    {
+      "name":"Black Cowl",
+      "hp":"+72",
+      "mp":"none",
+      "cost":7000,
+      "effect":"none"
+    },
+    {
+      "name":"Gold Hairpin",
+      "hp":"+80",
+      "mp":"+50",
+      "cost":12000,
+      "effect":"Immune Silence"
+    },
+    {
+      "name":"Flash Hat",
+      "hp":"+88",
+      "mp":"+15",
+      "cost":16000,
+      "effect":"Mag+1, Spd+1"
+    },
+    {
+      "name":"Thief's Cap",
+      "hp":"+100",
+      "mp":"none",
+      "cost":35000,
+      "effect":"Spd+2, Immune Disable/Immobilize"
+    },
+    {
+      "name":"Brass Coronet",
+      "hp":"+60",
+      "mp":"+100",
+      "cost":10,
+      "effect":"Mag+3, Immune Silence"
+    },
+    {
+      "name":"Acacia Hat",
+      "hp":"+120",
+      "mp":"+20",
+      "cost":10,
+      "effect":"Spd+2, Immune Confuse/Berserk/Charm"
+    }
+  ],
+  "helmets": [
+    {
+      "name":"Leather Helm",
+      "hp":"+10",
+      "mp":"none",
+      "cost":200,
+      "effect":"none"
+    },
+    {
+      "name":"Bronze Helm",
+      "hp":"+20",
+      "mp":"none",
+      "cost":500,
+      "effect":"none"
+    },
+    {
+      "name":"Iron Helm",
+      "hp":"+30",
+      "mp":"none",
+      "cost":1000,
+      "effect":"none"
+    },
+    {
+      "name":"Barbut",
+      "hp":"+40",
+      "mp":"none",
+      "cost":1500,
+      "effect":"none"
+    },
+    {
+      "name":"Mythril Helm",
+      "hp":"+60",
+      "mp":"none",
+      "cost":2100,
+      "effect":"none"
+    },
+    {
+      "name":"Golden Helm",
+      "hp":"+60",
+      "mp":"none",
+      "cost":2800,
+      "effect":"none"
+    },
+    {
+      "name":"Cross Helm",
+      "hp":"+70",
+      "mp":"none",
+      "cost":4000,
+      "effect":"none"
+    },
+    {
+      "name":"Diamond Helm",
+      "hp":"+80",
+      "mp":"none",
+      "cost":6000,
+      "effect":"none"
+    },
+    {
+      "name":"Platinum Helm",
+      "hp":"+90",
+      "mp":"none",
+      "cost":8000,
+      "effect":"none"
+    },
+    {
+      "name":"Circlet",
+      "hp":"+100",
+      "mp":"none",
+      "cost":10000,
+      "effect":"none"
+    },
+    {
+      "name":"Crystal Helm",
+      "hp":"+120",
+      "mp":"none",
+      "cost":14000,
+      "effect":"none"
+    },
+    {
+      "name":"Genji Helm",
+      "hp":"+130",
+      "mp":"none",
+      "cost":10,
+      "effect":"none"
+    },
+    {
+      "name":"Grand Helm",
+      "hp":"+150",
+      "mp":"none",
+      "cost":10,
+      "effect":"Immune Blind/Sleep"
+    },
+    {
+      "name":"Vanguard Helm",
+      "hp":"+150",
+      "mp":"+20",
+      "cost":10,
+      "effect":"none"
+    },
+    {
+      "name":"Onion Helm",
+      "hp":"+200",
+      "mp":"none",
+      "cost":10,
+      "effect":"Onion Knight only"
+    }
+  ],
+  "robes": [
+    {
+      "name":"Linen Robe",
+      "hp":"+10",
+      "mp":"+10",
+      "cost":1200,
+      "effect":"none"
+    },
+    {
+      "name":"Silken Robe",
+      "hp":"+20",
+      "mp":"+16",
+      "cost":2400,
+      "effect":"none"
+    },
+    {
+      "name":"Wizard's Robe",
+      "hp":"+30",
+      "mp":"+22",
+      "cost":4000,
+      "effect":"none"
+    },
+    {
+      "name":"Chameleon Robe",
+      "hp":"+40",
+      "mp":"+28",
+      "cost":5000,
+      "effect":"Absorbs Holy, Immune KO"
+    },
+    {
+      "name":"White Robe",
+      "hp":"+50",
+      "mp":"+34",
+      "cost":9000,
+      "effect":"Halves Fire/Ice/Lightning"
+    },
+    {
+      "name":"Black Robe",
+      "hp":"+60",
+      "mp":"+30",
+      "cost":13000,
+      "effect":"Boosts Fire/Ice/Lightning"
+    },
+    {
+      "name":"Luminous Robe",
+      "hp":"+75",
+      "mp":"+50",
+      "cost":30000,
+      "effect":"none"
+    },
+    {
+      "name":"Lordly Robe",
+      "hp":"+100",
+      "mp":"+80",
+      "cost":10,
+      "effect":"Atk+2, Mag+1, Equip Protect, Equip Shell"
+    },
+    {
+      "name":"Sage's Robe",
+      "hp":"+120",
+      "mp":"+100",
+      "cost":10,
+      "effect":"Halves Fire/Ice/Lightning/Water/Wind/Earth/Holy/Dark"
+    }
+  ],
+  "shields": [
+    {
+      "name":"Escutcheon",
+      "phyev":"10%",
+      "magev":"3%",
+      "cost":400,
+      "effect":"none"
+    },
+    {
+      "name":"Buckler",
+      "phyev":"13%",
+      "magev":"3%",
+      "cost":700,
+      "effect":"none"
+    },
+    {
+      "name":"Bronze Shield",
+      "phyev":"16%",
+      "magev":"none",
+      "cost":1200,
+      "effect":"none"
+    },
+    {
+      "name":"Round Shield",
+      "phyev":"19%",
+      "magev":"none",
+      "cost":1600,
+      "effect":"none"
+    },
+    {
+      "name":"Mythril Shield",
+      "phyev":"22%",
+      "magev":"5%",
+      "cost":2500,
+      "effect":"none"
+    },
+    {
+      "name":"Golden Shield",
+      "phyev":"25%",
+      "magev":"none",
+      "cost":3500,
+      "effect":"none"
+    },
+    {
+      "name":"Ice Shield",
+      "phyev":"28%",
+      "magev":"none",
+      "cost":6000,
+      "effect":"Absorbs Ice, Halves Fire, Weakness Lightning"
+    },
+    {
+      "name":"Flame Shield",
+      "phyev":"30%",
+      "magev":"none",
+      "cost":6500,
+      "effect":"Absorbs Fire, Halves Ice, Weakness Water"
+    },
+    {
+      "name":"Aegis Shield",
+      "phyev":"10%",
+      "magev":"50%",
+      "cost":10000,
+      "effect":"Mag+1"
+    },
+    {
+      "name":"Diamond Shield",
+      "phyev":"34%",
+      "magev":"15%",
+      "cost":12000,
+      "effect":"none"
+    },
+    {
+      "name":"Platinum Shield",
+      "phyev":"37%",
+      "magev":"10%",
+      "cost":16000,
+      "effect":"none"
+    },
+    {
+      "name":"Crystal Shield",
+      "phyev":"40%",
+      "magev":"15%",
+      "cost":21000,
+      "effect":"none"
+    },
+    {
+      "name":"Genji Shield",
+      "phyev":"43%",
+      "magev":"none",
+      "cost":10,
+      "effect":"none"
+    },
+    {
+      "name":"Kaiser Shield",
+      "phyev":"46%",
+      "magev":"20%",
+      "cost":10,
+      "effect":"Boosts Fire/Ice/Lightning"
+    },
+    {
+      "name":"Venetian Shield",
+      "phyev":"50%",
+      "magev":"25%",
+      "cost":10,
+      "effect":"Halves Fire/Ice/Lightning"
+    },
+    {
+      "name":"Reverie Shield",
+      "phyev":"50%",
+      "magev":"25%",
+      "cost":10,
+      "effect":"Halves Fire/Ice/Lightning/Water/Wind/Earth/Holy/Dark"
+    },
+    {
+      "name":"Escutchoen II",
+      "phyev":"75%",
+      "magev":"50%",
+      "cost":400,
+      "effect":"none"
+    },
+    {
+      "name":"Onion Shield",
+      "phyev":"80%",
+      "magev":"75%",
+      "cost":10,
+      "effect":"Onion Knight Only"
+    }
+  ]
+},
+"accessories": {
+  "shoes": [
+    {
+      "name":"Battle Boots",
+      "effect":"Move +1",
+      "cost":1000
+    },
+    {
+      "name":"Spiked Boots",
+      "effect":"Jump +1",
+      "cost":1200
+    },
+    {
+      "name":"Rubber Boots",
+      "effect":"Immune Immobilize, Negates Lightning",
+      "cost":1500
+    },
+    {
+      "name":"Winged Boots",
+      "effect":"Equip Float",
+      "cost":2500
+    },
+    {
+      "name":"Germinas Boots",
+      "effect":"Move +1, Jump +1",
+      "cost":5000
+    },
+    {
+      "name":"Hermes Shoes",
+      "effect":"Speed +1",
+      "cost":7000
+    },
+    {
+      "name":"Red Shoes",
+      "effect":"Mag +1, Move +1",
+      "cost":10000
+    },
+    {
+      "name":"Gaius Caligae",
+      "effect":"Move +2",
+      "cost":10
+    }
+  ],
+  "armguards": [
+    {
+      "name":"Power Gauntlet",
+      "effect":"Atk +1",
+      "cost":5000
+    },
+    {
+      "name":"Magic Glove",
+      "effect":"Mag +2",
+      "cost":20000
+    },
+    {
+      "name":"Bracer",
+      "effect":"Atk +3",
+      "cost":50000
+    },
+    {
+      "name":"Genji Glove",
+      "effect":"Atk +2, Mag +2",
+      "cost":10
+    },
+    {
+      "name":"Brigand's Gloves",
+      "effect":"Equip Haste, Spd +1",
+      "cost":30000
+    },
+    {
+      "name":"Onion Gloves",
+      "effect":"Immune KO/Undead/Stone/Traitor/Blind/COnfuse/Silence/Vampire/Berserk/Toad/Poison/Slow/Stop/Charm/Sleep/Immobilize/Disable/Doom",
+      "cost":10
+    }
+  ],
+  "rings": [
+    {
+      "name":"Protect Ring",
+      "effect":"Immune Sleep/Doom",
+      "cost":5000
+    },
+    {
+      "name":"Magick Ring",
+      "effect":"Immune Silence/Berserk",
+      "cost":10000
+    },
+    {
+      "name":"Reflect Ring",
+      "effect":"Equip Reflect",
+      "cost":10000
+    },
+    {
+      "name":"Angel Ring",
+      "effect":"Immune Blind, Equip Reraise",
+      "cost":20000
+    },
+    {
+      "name":"Cursed Ring",
+      "effect":"Atk +1, Mag +1, Spd +1, Equip Undead, Immune Traitor",
+      "cost":10
+    },
+    {
+      "name":"Sage's Ring",
+      "effect":"Boosts All Elements, Absorbs All Elements",
+      "cost":10
+    }
+  ],
+  "armlets": [
+    {
+      "name":"Diamond Bracelet",
+      "effect":"Atk +1, Mag +1, Immune Slow",
+      "cost":5000
+    },
+    {
+      "name":"Guardian Bracelet",
+      "effect":"Immune Immobilize/Disable",
+      "cost":7000
+    },
+    {
+      "name":"Nu Khai Armband",
+      "effect":"Immune Confuse/Charm, Halves Dark",
+      "cost":10000
+    },
+    {
+      "name":"Jade Armlet",
+      "effect":"Immune Stone/Stop",
+      "cost":10000
+    },
+    {
+      "name":"Japa Mala",
+      "effect":"Immune Undead/Vampire/Toad/Poison, Boosts All Elements",
+      "cost":15000
+    },
+    {
+      "name":"Empyreal Armband",
+      "effect":"Spd +1, Immune Slow/Stop/Immobilize",
+      "cost":10
+    }
+  ],
+  "cloaks": [
+    {
+      "name":"Shoulder Cape",
+      "phyev":"10%",
+      "magev":"10%",
+      "cost":300
+    },
+    {
+      "name":"Leather Cloak",
+      "phyev":"15%",
+      "magev":"15%",
+      "cost":800
+    },
+    {
+      "name":"Mage's Cloak",
+      "phyev":"18%",
+      "magev":"18%",
+      "effect":"Mag+1",
+      "cost":2000
+    },
+    {
+      "name":"Elven Cloak",
+      "phyev":"25%",
+      "magev":"25%",
+      "cost":8000
+    },
+    {
+      "name":"Vampire Cape",
+      "phyev":"28%",
+      "magev":"28%",
+      "cost":15000
+    },
+    {
+      "name":"Featherweave Cloak",
+      "phyev":"40%",
+      "magev":"30%",
+      "cost":20000
+    },
+    {
+      "name":"Invisibility Cloak",
+      "phyev":"35%",
+      "magev":"none",
+      "effect":"Equp Invisible",
+      "cost":10
+    }
+  ],
+  "perfume": [
+    {
+      "name":"Cherche",
+      "effect":"Equip Float, Equip Reflect",
+      "cost":30000
+    },
+    {
+      "name":"Sortilege",
+      "effect":"Equip Protect, Equip Shell",
+      "cost":30000
+    },
+    {
+      "name":"Chantage",
+      "effect":"Equip Reraise, Requip Regen",
+      "cost":30000
+    },
+    {
+      "name":"Septieme",
+      "effect":"Equip Haste, Equip Invisible, Mag+1",
+      "cost":30000
+    }
+  ],
+  "lipstick": [
+    {
+      "name":"Tynar Rouge",
+      "effect":"Equip Protect, Equip Shell, Equip Haste, Boosts Holy, Atk+3, Mag+3",
+      "cost":10
+    }
+  ]
+}
 }
